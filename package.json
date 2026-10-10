@@ -33,7 +33,7 @@
     "moment": "^2.22.1",
     "ms": "^2.1.1",
     "goo.gl": "0.1.4",
-    "figlet": "1.2.0",
+    "figlet": "1.11.3",
     "google-it": "1.1.1",
     "node-opus": "^0.2.7",
     "opusscript": "0.0.6",
